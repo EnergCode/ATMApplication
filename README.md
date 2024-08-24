@@ -1,2 +1,2 @@
-# ATMApplication
-ATM application for project 2
+# Bank Account Management Application
+Bank Account Management Application for project 2
